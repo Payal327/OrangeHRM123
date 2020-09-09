@@ -24,6 +24,7 @@ public class TestScripts extends BaseTest{
 		p.clickPIM();
 		Thread.sleep(2000);
 		p.clickEmpList();
+		//Reporter.log("msg a",true)
 		
 	}
 	
